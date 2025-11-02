@@ -1,3 +1,3 @@
-# ZacharyHancock.github.io yoy yoyoyo
+# ZacharyHancock.github.io 
 
-Hello
+Hello Github Pages
