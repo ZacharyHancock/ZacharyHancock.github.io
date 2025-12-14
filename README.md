@@ -1,12 +1,6 @@
-# ZacharyHancock.github.io 
-
-## CS-499 CAPSTONE
-
-
+# CS-499 CAPSTONE
 ### <a href="https://github.com/ZacharyHancock/CS499/tree/main/SWE_Artifact"> Artifact 1: Software Design and Engineering </a>
-This artifact originates from CS-405: Secure Coding course. The <a href="https://github.com/ZacharyHancock/CS499/tree/main/SWE_Artifact/Original"> original artifact </a> is coded in C++ originally, showcasing different methods of secure coding principles from buffer overflow protection to SQL injection protection. The inclusion of this code as artifact 1 is justified by complying with the following course outcomes: outceome 3 by demonstrating algorithmic design through secure encryption, outcome 4 by covnerting to Python libraries to demonstrate broad techniques and skills, and outcome 5 by implementing encryption algorithms and handling user data responsibly demonstrates the application of secure software engineering principles. 
+This artifact originates from CS-405: Secure Coding course. The <a href="https://github.com/ZacharyHancock/CS499/tree/main/SWE_Artifact/Original"> original artifact </a> is coded in C++ originally, showcasing different methods of secure coding principles from buffer overflow protection to SQL injection protection. The inclusion of this code as artifact 1 is justified by complying with the following course outcomes: outceome 3 by demonstrating algorithmic design through secure encryption, outcome 4 by converting to Python libraries to demonstrate broad techniques and skills, and outcome 5 by implementing encryption algorithms and handling user data responsibly demonstrates the application of secure software engineering principles. 
+While enhancing this artifact I learned some cross domain knowledge by converting the code from C++ to Python, by making me learn how to implement the same functionality with a different set of libraries and higher level language. The main challenge during this process was ensuring the proper and same logic and functionality while coding in a different language. This was challenging like it is challenging in translating from English to Spanish and vice-versa, in turn this became a great learning benefit because it made me understand the intricacies and similiarities/differences in the two languages. I further enhanced the artifact by enhancing the logic alognside the original plan of converting to Python. 
 
-
-<a href="https://github.com/ZacharyHancock/CS499/tree/main/DS%26A_Artifact/main">
-  Algorithmns and Data Structures Artifact 
-</a>
+### <a href="https://github.com/ZacharyHancock/CS499/tree/main/DS%26A_Artifact/main"> Artifact 2: Algorithmns and Data Structures </a>
