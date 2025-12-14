@@ -12,11 +12,11 @@ The outcomes that I set out to achieve, and accomplished, in this artifact enhac
 ### <a href="https://github.com/ZacharyHancock/CS499/tree/main/DS%26A_Artifact/main"> Artifact 3: Databases </a>
 This artifact originates from CS-340: Advanced Programming Concepts course. The <a href="https://github.com/ZacharyHancock/CS499/tree/main/Database_Artifact/Original"> original artifact </a> is
 
-### Code Review *********
+### Code Review embed
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/watch?v=frM8XBcwFHI&t=27s"
+  src="https://www.youtube.com/embed/frM8XBcwFHI"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
